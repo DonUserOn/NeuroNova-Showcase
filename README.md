@@ -93,6 +93,18 @@ NeuroNova v1.0 is a deployed prototype/MVP. It demonstrates the product vision, 
 
 Created by Hanan Ossama, who prefers to be called Ossama.
 
+## License and Usage
+
+This repository is a public showcase of NeuroNova.
+
+NeuroNova is not open source. All rights are reserved.
+
+You may view this repository for portfolio, academic, research, and demonstration purposes only.
+
+You may not copy, modify, redistribute, commercialize, or recreate the NeuroNova product, branding, screenshots, documentation, user interface design, or platform concept without written permission from the author.
+
+© 2026 Hanan Ossama. All rights reserved.
+
 ## Privacy Note
 
 This showcase repo does not include private source code, API keys, `.env` files, databases, or saved user data. Demo users should not upload sensitive private documents.
