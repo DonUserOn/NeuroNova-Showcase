@@ -4,7 +4,7 @@
 
 **AI Study Assistant & Learning Platform**
 
-Live demo: https://your-render-link.onrender.com
+Live demo: https://neuronova-9e12.onrender.com
 
 > This is a public showcase repository. The main source-code repository is private.
 
